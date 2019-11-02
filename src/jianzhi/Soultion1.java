@@ -1,5 +1,7 @@
 package jianzhi;
-
+/**
+ * 
+ */
 import java.util.Scanner;
 
 public class Soultion1 {
