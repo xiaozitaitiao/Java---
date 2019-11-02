@@ -1,6 +1,6 @@
 package jianzhi;
 /**
- * 1
+ * 1a
  */
 import java.util.Scanner;
 
