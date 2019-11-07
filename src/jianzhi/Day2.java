@@ -8,7 +8,7 @@ package jianzhi;
  *
  */
 
-public class Solution2 {
+public class Day2 {
 	
 	private static final  int nums[]= {1,-2,3,10,-4,7,2,-5};
 

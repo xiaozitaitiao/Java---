@@ -4,7 +4,7 @@ package jianzhi;
  */
 import java.util.Scanner;
 
-public class Soultion1 {
+public class Day1 {
 	public boolean hasPath(char[][]metrixs,int x,int y,int rows,int cols,String target,int len,boolean[][]visited)
 	{
 		if(len==target.length())return true;
@@ -33,7 +33,7 @@ public static void main(String[] args) {
 			{'c','f','c','s'},
 			{'j','d','e','h'}
 	};
-	Soultion1 soul= new Soultion1();
+	Day1 soul= new Day1();
 	int rows=3;
 	int cols=4;
 	boolean[][] visited=new boolean[3][4];
